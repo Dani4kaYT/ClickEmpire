@@ -1,7 +1,7 @@
 {
   "name": "Click Empire",
   "short_name": "Click Empire",
-  "description": "Click Empire — увлекательный кликер, где ты начинаешь с одного клика и строишь собственную империю. Нажимай, улучшай, делай ребёрты и становись самым богатым игроком!",
+  "description": "Click Empire — увлекательный кликер с ребёртами, улучшениями и достижениями. Строи свою империю кликов!",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#0a001f",
